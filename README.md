@@ -1,0 +1,2 @@
+# blog
+myself  github bolg
