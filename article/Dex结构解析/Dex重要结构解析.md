@@ -58,7 +58,7 @@
 ---
 > ## Class_data_item 结构由dex_baseAddr+class_data_off
 >
-> ![Classdef_item](./picture/classdef.png)
+> ![Classdef_item](./picture/Classdef.png)
 
 * * *
 
@@ -66,7 +66,7 @@
 
 * * *
 
-![Class_data_item结构](./picture/Class_data_item.png)
+![Class_data_item结构](./picture/class_data_item.png)
 
 * * *
 
@@ -82,7 +82,7 @@
 
 > ## **insns为dex执行的dalvik解释指令单元，即为加固产品常用于加固的字段**
 >
-> ![CodeItem结构](./picture/code.png)
+> ![CodeItem结构](./picture/Code.png)
 
 * * *
 
