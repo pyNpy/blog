@@ -28,6 +28,8 @@
 
 - [android-class-jar-dex-文件转换](./pdf/class-jar-dex关系转换.pdf)
 
+- [微信小程序-raw文件结构](./pdf/微信小程序-结构研究.pdf)
+
 ---
 
 <p align="right">
