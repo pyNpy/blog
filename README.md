@@ -10,6 +10,19 @@
   * [ReadMe](https://github.com/pyNpy/upnp-for-Andriod/blob/master/README.md)
 - 2.[android dynamic load target .dex and .so](https://github.com/pyNpy/androidSystem_load)
   * [ReadMe](https://github.com/pyNpy/androidSystem_load/blob/master/README.md)
+---
+# pdf List
+- [android源码修改-fork-防止应用fork多个进程相互ptrace](./pdf/android源码-fork修改.pdf)
+
+- [android-Dex加载过程详解](./pdf/dex加载详解.pdf)
+
+- [nexus手机调试修改debugable=1](./pdf/nexus手机调试修改debugable=1.pdf)
+
+- [Android内核文件修改过反调试检测TracerPid](./pdf/反反调试修改TracerPid.pdf)
+
+- [android-urlschema通过浏览器打开应用](./pdf/urlschema-attack.pdf)
+
+- [android-class-jar-dex-文件转换](./pdf/class-jar-dex关系转换.pdf)
 
 ---
 <p align="right">
